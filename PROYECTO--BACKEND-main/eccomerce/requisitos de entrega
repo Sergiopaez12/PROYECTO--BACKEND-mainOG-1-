@@ -1,0 +1,7 @@
+Requisito	Estado
+Compila	Sí
+README con comandos	Sí
+1 Command + 1 Query	Sí
+Migraciones	Sí (InitialCreate)
+Rutas autenticadas	Sí
+Swagger + Bearer	Sí
